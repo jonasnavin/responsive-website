@@ -404,8 +404,12 @@
         align-items: center;
     }
 
+    .section-3 .article-content {
+        width: 300px;
+    }
+
     .section-3 article  .article-image img {
-        width: 350px;
+        width: 300px;
     }
 
     .section-4 .container {
